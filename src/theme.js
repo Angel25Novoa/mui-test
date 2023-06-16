@@ -24,6 +24,13 @@ const theme = createTheme({
         lineHeight: '78px',
       }
     },
+    h3:{
+      fontFamily: 'Montserrat',
+      fontWeight: '700',
+      fontSize: '24px',
+      lineHeight: '29px',
+      color: '#000000',
+    },
     body1:{
       fontFamily: 'Montserrat',
       fontWeight: '400',
